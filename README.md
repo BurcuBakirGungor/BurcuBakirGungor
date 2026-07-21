@@ -27,12 +27,14 @@
 
 | Period           | Role & Institution                                                                                       |
 |:-----------------|:----------------------------------------------------------------------------------------------------------|
+| **2026–Present** | Research Fellow, Severo Ochoa Women Research Fellow, Barcelona Supercomputing Center                      |
 | **2024–Present** | Associate Professor, Computer Engineering, Abdullah Gül University                                        |
-| **2013–2024**    | Assistant Professor, Computer Engineering, Abdullah Gül University                                       |
+| **2022–Present** | CEO of SmartTech, IT Services and IT Consulting, Innovating Tomorrow’s Intelligence, Today                |
+| **2013–2024**    | Assistant Professor, Computer Engineering, Abdullah Gül University                                        |
 | **2012–2013**    | Senior Researcher, Advanced Genomics & Bioinformatics, TÜBİTAK UEKAE                                      |
 | **2009–2012**    | Assistant Professor, Genetics & Bioinformatics, Bahçeşehir University                                     |
 | **2007–2009**    | Bioinformatics Specialist, Rat Genome Database, Medical College of Wisconsin                              |
-| **2004–2007**    | Graduate Research Assistant, School of Biological Sciences, Georgia Tech                                 |
+| **2004–2007**    | Graduate Research Assistant, School of Biological Sciences, Georgia Tech                                  |
 
 ---
 
@@ -49,6 +51,7 @@
 
 ## 🏆 Honors & Awards
 
+- **IEEE Research Incentive Award**, 2025 
 - **L’ORÉAL–UNESCO Young Women in Science Award**, 2022  
 - **Best Paper** at UBMK 2020 & EvoBIO 2006  
 - **Bioinfo4Women Mentor**, Barcelona 2018–present  
